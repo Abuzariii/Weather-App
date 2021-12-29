@@ -1,1 +1,3 @@
 # Weather-Map
+
+This is the weather map I created using OpenWeatherAPI, my own key is active but I recommending signing up on openweatherapi and generating your own key..........
